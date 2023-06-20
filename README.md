@@ -1,18 +1,15 @@
 # `@beanstechnologies/tools`
 
-<<<<<<< HEAD
 Full documentation can be found here: https://docs.beanstech.tech/guides/tools 
 
 
 ## Authors
-
 - [@malezjaa](https://www.github.com/malezjaa)
 
 
 ## Support
 
 For support, email  beanstechnologies@gmail.com.
-
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://malezjaa.me/)
@@ -23,7 +20,3 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/malezjaa)
-
-=======
-Full documentation can be found here: https://docs.beanstech.tech/guides/tools
->>>>>>> c4ccce3eb880a0ccc5cd09da89adbc1dcd37ad30
