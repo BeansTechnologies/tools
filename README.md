@@ -1,5 +1,6 @@
 # `@beanstechnologies/tools`
 
+<<<<<<< HEAD
 Full documentation can be found here: https://docs.beanstech.tech/guides/tools 
 
 
@@ -23,3 +24,6 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/malezjaa)
 
+=======
+Full documentation can be found here: https://docs.beanstech.tech/guides/tools
+>>>>>>> c4ccce3eb880a0ccc5cd09da89adbc1dcd37ad30
