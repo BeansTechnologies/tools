@@ -1,0 +1,28 @@
+{
+  "name": "@beanstechnologies/tools",
+  "version": "0.0.0",
+  "private": true,
+  "license": "MIT",
+  "author": "malezjaa",
+  "description": "High-quality open-source software solution for web developers.",
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/malezjaa"
+  },
+  "homepage": "https://github.com/beanstechnologies/tools",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beanstechnologies/tools.git"
+  },
+  "scripts": {
+    "lint": "eslint --ext js,ts,tsx .",
+    "build": "tsc -p tsconfig.json",
+    "pkg": "ts-node-dev ./src/test.ts"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "dependencies": {
+    "eslint-config-custom": "workspace:*",
+    "tsconfig": "workspace:*"
+  }
+}
