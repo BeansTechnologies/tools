@@ -1,7 +1,6 @@
 {
   "name": "@beanstechnologies/tools",
   "version": "0.0.0",
-  "private": true,
   "license": "MIT",
   "author": "malezjaa",
   "description": "High-quality open-source software solution for web developers.",
